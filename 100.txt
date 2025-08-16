@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅填到这里，两端引号不要去掉，不要填写到下方链接里去！！"
+    url: "https://rcy33unpcc.r.worldssl.net/?sid=312694&token=srvfengf"
     type: http
     interval: 86400
     health-check:
